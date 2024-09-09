@@ -5,11 +5,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milatiarks&theme=radical&show_icons=true)
    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=milatiarks&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 <br><br>
