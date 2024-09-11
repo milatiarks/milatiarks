@@ -1,6 +1,6 @@
 ## Oie, eu sou a Camila! 
 
-<h5>Estudante de programação e atualmente Desenvolvedora JR Fullstack em Python :)) Tenho muitos objetivos e linguagens novas para aprender!</h5>
+<h5>Estudante de programação e atualmente Desenvolvedora Jr Fullstack em Python :)) Tenho muitos objetivos e linguagens novas para aprender!</h5>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
